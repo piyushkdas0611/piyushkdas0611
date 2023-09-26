@@ -99,17 +99,30 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushkdas0611&hide_border=true&layout=compact" align="center" /></div>  
+<div align="center">
+  <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushkdas0611&hide_border=true&layout=compact" align="center" /></div>  
 <br/>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=piyushkdas0611&show_icons=true&count_private=true&hide_border=true" align="left" /> </div>
+</div>
 
 <br/>    
 
 <br/>  
 
-<div align="center">
+## Recent Writeups
+<div align="center" width=100%>
+  <ol>
+  <li><a href="https://dev.to/piyushkdas0611/starting-with-github-actions-23c8">Github Actions bot</a></li>
+  <li><a href="https://dev.to/piyushkdas0611/web-scrapper-using-nodejs-express-cheerio-and-axios-32n2">Web Scrapper using NodeJS, Express, Cheerio and Axios</a></li>
+  <li><a href="https://dev.to/piyushkdas0611/create-a-number-guessing-game-using-node-js-50a">Number Guessing Game</a></li>
+</ol>
+
+</div>
+
+
+<div align="center" width=100%>
 <h2>Last Played</h2>
-<div align="left"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31ttds5q2ftayflknm4teeuhpms4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div> 
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31ttds5q2ftayflknm4teeuhpms4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div> 
 </div> 
 
 <br/>  
