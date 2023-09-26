@@ -1,5 +1,5 @@
 <div align="center">
-<img src="" align="center" style="width: 100%" />
+<img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 </div>  
   
 
@@ -100,20 +100,17 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushkdas0611&hide_border=true&layout=compact" align="center" /></div>  
+<br/>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=piyushkdas0611&show_icons=true&count_private=true&hide_border=true" align="left" /> </div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=piyushkdas0611&show_icons=true&count_private=true&hide_border=true" align="left" />  
-
-<br/>  
-
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
+<br/>    
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31ttds5q2ftayflknm4teeuhpms4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
+<div align="center">
+<h2>Last Played</h2>
+<div align="left"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31ttds5q2ftayflknm4teeuhpms4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div> 
+</div> 
 
 <br/>  
 
@@ -128,4 +125,3 @@ If things goes well, this section should automatically be replaced by a list of 
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
