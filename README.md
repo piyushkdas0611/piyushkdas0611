@@ -1,12 +1,11 @@
 <div align="center">
 <img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 </div>  
-  
 
 ### <div align="center">I'm Piyush, a Developer, Programmer and Tech Writer😀</div>  
   
 
-- 🔭 I’m currently adding backend to [Todo App](https://github.com/piyushkdas0611/todo-list-using-react)  
+- 🔭 I’m currently excited for HacktoberFest 2023  
   
 
 - 🌱 I’m currently learning NodeJS, GraphQL and Databases  
@@ -119,9 +118,10 @@
 
 </div>
 
+[![An image of @piyushkdas's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/piyushkdas)](https://holopin.io/@piyushkdas)
 
 <div align="center" width=100%>
-<h2>Last Played</h2>
+<h2>Recently Played on Spotify</h2>
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31ttds5q2ftayflknm4teeuhpms4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div> 
 </div> 
 
