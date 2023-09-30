@@ -99,14 +99,14 @@
 
 ## Github Stats  
 <div align="center">
-  <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushkdas0611&hide_border=true&layout=compact" align="center" /></div>  
-<br/>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=piyushkdas0611&show_icons=true&count_private=true&hide_border=true" align="left" /> </div>
+  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushkdas0611&hide_border=true&layout=compact" align="center" /> <br/><br/>
+  <img width="350" src="https://github-readme-stats.vercel.app/api?username=piyushkdas0611&show_icons=true&count_private=true&hide_border=true" align="center" /> <br/><br/>
+  <a href="https://cloud.appwrite.io/card/64762500727ecf9829ff">
+	<img width="350" src="https://cloud.appwrite.io/v1/cards/cloud?userId=64762500727ecf9829ff" alt="Appwrite Cloud Card" align="center" />
+</a>
 </div>
 
-<br/>    
-
-<br/>  
+<br/>
 
 ## Recent Writeups
 <div align="center" width=100%>
