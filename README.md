@@ -5,7 +5,7 @@
 ### <div align="center">I'm Piyush, a Developer, Programmer and Tech Writer😀</div>  
   
 
-- 🔭 I’m currently excited for HacktoberFest 2023  
+- 🔭 I’m currently accepting contributions for the repo [Profile-Card-Generator](https://github.com/piyushkdas0611/Profile-Card-Generator)
   
 
 - 🌱 I’m currently learning NodeJS, GraphQL and Databases  
