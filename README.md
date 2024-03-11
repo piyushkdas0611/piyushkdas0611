@@ -3,19 +3,6 @@
 </div>  
 
 ### <div align="center">I'm Piyush, a Developer, Programmer and Tech Writer😀</div>  
-  
-
-- 🔭 I’m currently accepting contributions for the repo [Profile-Card-Generator](https://github.com/piyushkdas0611/Profile-Card-Generator)
-  
-
-- 🌱 I’m currently learning NodeJS, GraphQL and Databases  
-  
-
-- ❓ Ask me about anything related to React, DSA, Frontend Development, Git, Linux  
-  
-
-- ⚡ Fun fact: Coding is my superpower, and I will save the day.  
-  
 
 <br/>  
 
@@ -62,7 +49,7 @@
 
 </td></tr></table>  
 
-<br/>  
+<br/>
 
 
 ## Connect with me  
@@ -98,25 +85,13 @@
 
 
 ## Github Stats  
-<div align="center">
-  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushkdas0611&hide_border=true&layout=compact" align="center" /> <br/><br/>
-  <img width="350" src="https://github-readme-stats.vercel.app/api?username=piyushkdas0611&show_icons=true&count_private=true&hide_border=true" align="center" /> <br/><br/>
-  <a href="https://cloud.appwrite.io/card/64762500727ecf9829ff">
-	<img width="350" src="https://cloud.appwrite.io/v1/cards/cloud?userId=64762500727ecf9829ff" alt="Appwrite Cloud Card" align="center" />
-</a>
-</div>
 
-<br/>
+[![piyushkdas0611's GitHub | Stats](https://stats.quine.sh/piyushkdas0611/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=piyushkdas0611)
 
-## Recent Writeups
-<div align="center" width=100%>
-  <ol>
-  <li><a href="https://dev.to/piyushkdas0611/starting-with-github-actions-23c8">Github Actions bot</a></li>
-  <li><a href="https://dev.to/piyushkdas0611/web-scrapper-using-nodejs-express-cheerio-and-axios-32n2">Web Scrapper using NodeJS, Express, Cheerio and Axios</a></li>
-  <li><a href="https://dev.to/piyushkdas0611/create-a-number-guessing-game-using-node-js-50a">Number Guessing Game</a></li>
-</ol>
+[![piyushkdas0611's GitHub | Dependencies](https://stats.quine.sh/piyushkdas0611/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=piyushkdas0611)
 
-</div>
+[![piyushkdas0611's GitHub | Languages Over Time](https://stats.quine.sh/piyushkdas0611/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=piyushkdas0611)
+
 
 [![An image of @piyushkdas's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/piyushkdas)](https://holopin.io/@piyushkdas)
 
