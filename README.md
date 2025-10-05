@@ -83,22 +83,7 @@
 
 <br/>  
 
-
-## Github Stats  
-
-[![piyushkdas0611's GitHub | Stats](https://stats.quine.sh/piyushkdas0611/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=piyushkdas0611)
-
-[![piyushkdas0611's GitHub | Dependencies](https://stats.quine.sh/piyushkdas0611/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=piyushkdas0611)
-
-[![piyushkdas0611's GitHub | Languages Over Time](https://stats.quine.sh/piyushkdas0611/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=piyushkdas0611)
-
-
 [![An image of @piyushkdas's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/piyushkdas)](https://holopin.io/@piyushkdas)
-
-<div align="center" width=100%>
-<h2>Recently Played on Spotify</h2>
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31ttds5q2ftayflknm4teeuhpms4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div> 
-</div> 
 
 <br/>  
 
